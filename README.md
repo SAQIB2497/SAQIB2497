@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and innovative frontend applications.
 - 📫 How to reach me:
   ✉️ saqiburrehman75@gmail.com
-  🔗 LinkedIn
+  🔗 [LinkedIn](https://www.linkedin.com/in/saqib-ur-rehman-1827522ba/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I transitioned from a physics background to web development and enjoy optimizing UI performance!
 
